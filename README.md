@@ -3,7 +3,7 @@
 ## My CV
 ()
 ## My Stepik profile with courses
-(https://stepik.org/users/643975126/profile)
+https://stepik.org/users/643975126/profile
 ## Used Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)  ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail) ![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=Qase)
 
