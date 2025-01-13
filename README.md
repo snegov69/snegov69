@@ -7,7 +7,7 @@
 
 Бесплатный курс Артёма Русова rusau.net/courses
 ## Резюме
-()
+https://career.habr.com/1vb
 ## Профиль степик
 https://stepik.org/users/643975126/profile
 
